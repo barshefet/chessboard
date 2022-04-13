@@ -1,4 +1,202 @@
 .Title {
     text-align: center;
     color: rgb(160, 29, 141);
+    padding: 20px;
+    text-decoration: underline dotted;
+    outline: rgb(160, 29, 141) solid 1px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.row1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+   
+    
+}
+.row2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.row3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.row4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.row5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.row6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.row7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.row8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+
+.boxA1{
+    height: 150px;
+    width: 150px;
+    background-color: black;
+   outline: black solid 1px;
+    
+}
+
+.boxA2{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    outline: black solid 1px;
+    color: white;
+    
+    
+    
+}
+
+.boxA3{
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    outline: black solid 1px;
+}
+
+.boxA4{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    outline: black solid 1px;
+    color: white;
+    
+    
+    
+}
+
+.boxA5{
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    outline: black solid 1px;
+}
+
+.boxA6{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    outline: black solid 1px;
+    color: white;
+    
+    
+    
+}
+
+.boxA7{
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    outline: black solid 1px;
+}
+
+.boxA8{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    outline: black solid 1px;
+   
+    color: white;
+    
+    
+    
+}
+.boxB1{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+   color: white;
+   outline: black solid 1px;
+    
+}
+
+.boxB2{
+    height: 150px;
+    width: 150px;
+    background-color: black; 
+    
+}
+.boxB3{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+   color: white;
+   outline: black solid 1px;
+    
+}
+
+.boxB4{
+    height: 150px;
+    width: 150px;
+    background-color: black; 
+    
+}
+.boxB5{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+   color: white;
+   outline: black solid 1px;
+    
+}
+
+.boxB6{
+    height: 150px;
+    width: 150px;
+    background-color: black; 
+    
+}
+.boxB7{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+   color: white;
+   outline: black solid 1px;
+}
+
+.boxB8{
+    height: 150px;
+    width: 150px;
+    background-color: black; 
+    
 }
